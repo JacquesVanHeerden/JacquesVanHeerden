@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacquesVanHeerden and on Call of Duty I'm known as DefConGuy.
 - 👀 I’m interested in Cyber Security and more specifically in the field of Offensive Security and penetration testing
-- 🌱 I’m currently learning HackTheBox's Penetration Testing Path as well as a B.Sc IT Degree at Northwest University in Potchefstroom
+- 🌱 I’m currently pursuing HackTheBox's Penetration Testing Path as well as a B.Sc IT Degree at Northwest University in Potchefstroom
 - 💞️ I’m looking to collaborate on any Ethical Hacking, Encryption Projects, anything Cyber related really!
 - 📫 How to reach me jvanheerden38@gmail.com
 
