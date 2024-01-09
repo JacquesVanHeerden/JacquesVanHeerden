@@ -14,7 +14,7 @@ The top 3 career options I chose:
 2. Cybersecurity Engineer
 3. Penetration Tester
 
-Given my desire, experience, and skills I chose to start with Penetration Tester and will try to accumulate my OSCP and B.Sc IT Degree by 2027
+Given my desire, experience, and skills I chose to start with Penetration Tester and will try to accumulate my CISSP and B.Sc IT Degree by 2027
 
 Stay tuned for more updates. (My timeline might look a little empty until 2026 due to my determined focus on the Bachelor of Science in Information Technology degree I am pursuing).
 Hack The Box updates might be seen during the holiday seasons... (It's more like a hobby at this stage)
